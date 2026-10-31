@@ -1,2 +1,2 @@
 # Blink-Arduino
-Blink an LED with Arduino using millis() function
+Blink an LED with Arduino using millis() function (PlatformIO)
